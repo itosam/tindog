@@ -7,4 +7,4 @@ Page was created using
 
 
 <a href= "https://itosam.github.io/tindog/">
-  <strong>Tindog landing page/strong></a>
+  <strong>Tindog landing page</strong></a>
